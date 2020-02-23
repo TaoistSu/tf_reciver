@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<launch>
+  <node name ="tf_reciver" pkg="tf_reciver" type="tf_reciver"/>
+ output="screen" />
+</launch> 
